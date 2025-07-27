@@ -23,7 +23,9 @@ It calculates a **driver safety score** based on **overspeeding**, **harsh braki
 ---
 ## ⚡ Visualization
 <img width="800" height="410" alt="image" src="https://github.com/user-attachments/assets/cbff5919-e59b-4d81-82cc-d13b535a4556" />
-<img width="800" height="606" alt="image" src="https://github.com/user-attachments/assets/08a5aadd-ab65-4afe-8a8a-1b88b4267c83" />
+
+<img width="809" height="792" alt="image" src="https://github.com/user-attachments/assets/de45f7a7-f251-40e9-8a5a-82e491f4ab34" />
+
 <img width="641" height="552" alt="image" src="https://github.com/user-attachments/assets/ab0c69b0-7ff1-4279-a3d5-509a8d295143" />
 
 ## 🚀 Getting Started
